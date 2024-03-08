@@ -6,3 +6,7 @@ int main() {
 }
 
 
+<<<<<<< Updated upstream
+=======
+//eae dogipfipanfkanfkçnas
+>>>>>>> Stashed changes
